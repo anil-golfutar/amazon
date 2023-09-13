@@ -182,7 +182,7 @@ span {
   align-items: center;
   justify-content: center;
   width: 80%;
-  margin-bottom: 25px;
+  margin-bottom: 5px;
 }
 
 .hero-msg a {
@@ -217,8 +217,9 @@ span {
   margin-right: 1rem;
 }
 
-.box-content p {
-  color: #007185;
+.box-content a {
+  color: rgb(207, 178, 123);
+  text-decoration: none;
 }
 
 /** footer **/
