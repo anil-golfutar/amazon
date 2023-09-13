@@ -219,6 +219,11 @@ span {
   margin-right: 1rem;
 }
 
+.box-content:hover {
+  opacity: 0.5;
+  cursor: pointer;  
+}
+
 .box-content a {
   color: rgb(207, 178, 123);
   font-weight: 700;
