@@ -247,6 +247,15 @@ footer {
   justify-content: space-evenly;
 }
 
+.foot-panel2 a {
+  text-decoration: none;  
+}
+
+.foot-panel2 a:hover {
+  color: rgb(42, 40, 40);
+  background-color: aliceblue;
+}
+
 ul {
   margin-top: 20px;
 }
