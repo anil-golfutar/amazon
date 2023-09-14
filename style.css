@@ -252,6 +252,12 @@ footer {
   justify-content: space-evenly;
 }
 
+.foot-panel2 ul p {
+  color: rgb(213, 158, 54);
+  text-shadow: 2px 2px 4px rgb(209, 227, 184);
+  font-weight: bold;
+}
+
 .foot-panel2 a {
   text-decoration: none;  
 }
